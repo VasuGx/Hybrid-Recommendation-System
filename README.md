@@ -80,10 +80,12 @@ Averages or weights both scores for better accuracy
 ---
 # 🛠️ Setup & Installation
 
+```
 git clone https://github.com/VasuGx/Hybrid-Recommendation-System
 cd spotify-recommender
 pip install -r requirements.txt
 dvc pull  # Pull data and models
+```
 
 ---
 
