@@ -77,37 +77,39 @@ Calculates item-item similarity via cosine distance
 🔄 Hybrid:
 Averages or weights both scores for better accuracy
 
-
-🛠️ Setup & Installation
+---
+# 🛠️ Setup & Installation
 
 git clone https://github.com/VasuGx/Hybrid-Recommendation-System
 cd spotify-recommender
 pip install -r requirements.txt
 dvc pull  # Pull data and models
 
-📊 Sample Data
-Song Metadata (songs.csv)
+---
 
+# 📊 Sample Data
+
+Song Metadata (songs.csv)
 User Listening History (user_history.csv)
 
-🧩 Tech Stack
+---
+
+#🧩 Tech Stack
+
 Python
-
 DVC
-
 Scikit-Learn
-
 Dask
-
 Streamlit
-
 Docker
-
 GitHub Actions
+Amazon ECR 
 
-Amazon ECR (optional)
+---
 
-✍️ Author
+#✍️ Author
+
 Vasu Gupta
-
 Designed with modularity and reproducibility in mind.
+@vasugupta1734@gmail.com
+
